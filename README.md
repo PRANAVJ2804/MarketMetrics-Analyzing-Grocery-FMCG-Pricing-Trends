@@ -2,7 +2,7 @@
 
 ### This is a group project.
 ## Team details:
-- Pranav (Team lead)
+- Pranav J (Team lead)
 - Afifa Taahera
 - Krunal
 
